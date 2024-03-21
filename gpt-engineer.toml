@@ -7,6 +7,5 @@ lint = "npm run lint"
 dist = "./build"
 src = "./src"
 
-
 [gptengineer-app]  # this namespace is used for gptengineer.app, we can use this for internal experiments
-project_id = "b8b73a61-7420-474c-a704-6a0abde4a3ee"
+project_id = "a81e6c7f-4f46-4fca-b870-d2fdd79c5ef7"
