@@ -8,4 +8,4 @@ dist = "./build"
 src = "./src"
 
 [gptengineer-app]  # this namespace is used for gptengineer.app, we can use this for internal experiments
-project_id = ""
+project_id = "b8b73a61-7420-474c-a704-6a0abde4a3ee"
